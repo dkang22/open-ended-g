@@ -1,0 +1,17 @@
+head {
+  font-weight: bold;
+  font-size: 21px;
+}
+
+p {
+  font-size: 14px;
+}
+
+a[href="https://www.ucvts.tec.nj.us/site/Default.aspx?PageID=471"] {
+  color: red;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
